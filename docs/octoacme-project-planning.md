@@ -37,6 +37,8 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 
 ## Planning Checklist
 - [ ] Project kickoff held
+- [ ] Role responsibilities assigned using the [Responsibility Matrix](roles-and-personas-matrix.md) and captured in the project one-pager
+- [ ] [Role Onboarding Template](role-onboarding-template.md) completed for each new project participant
 - [ ] Backlog prioritized and estimated
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
